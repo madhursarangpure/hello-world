@@ -4,6 +4,9 @@
     <p>Please fill in this form to create an account thi is facilated by Madhur Sarangpure.</p>
     <hr>
 
+    <label for="Name"><b>Name</b></label>
+    <input type="text" placeholder="Enter Email" name="email" id="email" required>
+
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
 
