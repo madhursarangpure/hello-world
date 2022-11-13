@@ -1,11 +1,11 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New User want to Register to this application</h1>
+    <h1>New User want to Register to this register application</h1>
     <p>Please fill in this form to create an account thi is facilated by Madhur Sarangpure.</p>
     <hr>
 
     <label for="Name"><b>Name</b></label>
-    <input type="text" placeholder="Enter Email" name="email" id="email" required>
+    <input type="text" placeholder="Enter Name" name="email" id="email" required>
 
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
